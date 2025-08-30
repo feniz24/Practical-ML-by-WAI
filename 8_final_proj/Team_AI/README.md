@@ -59,3 +59,7 @@ docker build -t catdog-seg .
 docker run -p 8000:8000 catdog-seg
 ```
 
+### Team Members
+1. (Su Yee Mon)[https://github.com/DigitalSuYee]
+2. 
+3. (Thant Htet Oo)[https://github.com/feniz24]
